@@ -1,0 +1,166 @@
+2024-11-20 05:15:35,540 [ERROR]: Ошибка в task_build_open_state_histogram: Can't find a usable init.tcl in the following directories: 
+    C:/Users/PC/AppData/Local/Programs/Python/Python313/lib/tcl8.6 D:/Python_app/rest_api/.venv/lib/tcl8.6 D:/Python_app/rest_api/lib/tcl8.6 D:/Python_app/rest_api/.venv/library D:/Python_app/rest_api/library D:/Python_app/rest_api/tcl8.6.14/library D:/Python_app/tcl8.6.14/library
+
+
+
+This probably means that Tcl wasn't installed properly.
+
+2024-11-20 05:15:35,540 [ERROR]: Ошибка в task_build_open_state_histogram: Can't find a usable init.tcl in the following directories: 
+    C:/Users/PC/AppData/Local/Programs/Python/Python313/lib/tcl8.6 D:/Python_app/rest_api/.venv/lib/tcl8.6 D:/Python_app/rest_api/lib/tcl8.6 D:/Python_app/rest_api/.venv/library D:/Python_app/rest_api/library D:/Python_app/rest_api/tcl8.6.14/library D:/Python_app/tcl8.6.14/library
+
+
+
+This probably means that Tcl wasn't installed properly.
+
+2024-11-20 05:16:47,025 [ERROR]: Ошибка в task_build_open_state_histogram: Can't find a usable init.tcl in the following directories: 
+    C:/Users/PC/AppData/Local/Programs/Python/Python313/lib/tcl8.6 D:/Python_app/rest_api/.venv/lib/tcl8.6 D:/Python_app/rest_api/lib/tcl8.6 D:/Python_app/rest_api/.venv/library D:/Python_app/rest_api/library D:/Python_app/rest_api/tcl8.6.14/library D:/Python_app/tcl8.6.14/library
+
+
+
+This probably means that Tcl wasn't installed properly.
+
+2024-11-20 05:16:47,025 [ERROR]: Ошибка в task_build_open_state_histogram: Can't find a usable init.tcl in the following directories: 
+    C:/Users/PC/AppData/Local/Programs/Python/Python313/lib/tcl8.6 D:/Python_app/rest_api/.venv/lib/tcl8.6 D:/Python_app/rest_api/lib/tcl8.6 D:/Python_app/rest_api/.venv/library D:/Python_app/rest_api/library D:/Python_app/rest_api/tcl8.6.14/library D:/Python_app/tcl8.6.14/library
+
+
+
+This probably means that Tcl wasn't installed properly.
+
+2024-11-20 05:34:11,621 [ERROR]: Ошибка в task_build_open_state_histogram: Can't find a usable init.tcl in the following directories: 
+    C:/Users/PC/AppData/Local/Programs/Python/Python313/lib/tcl8.6 D:/Python_app/rest_api/.venv/lib/tcl8.6 D:/Python_app/rest_api/lib/tcl8.6 D:/Python_app/rest_api/.venv/library D:/Python_app/rest_api/library D:/Python_app/rest_api/tcl8.6.14/library D:/Python_app/tcl8.6.14/library
+
+
+
+This probably means that Tcl wasn't installed properly.
+
+2024-11-20 05:34:11,621 [ERROR]: Ошибка в task_build_open_state_histogram: Can't find a usable init.tcl in the following directories: 
+    C:/Users/PC/AppData/Local/Programs/Python/Python313/lib/tcl8.6 D:/Python_app/rest_api/.venv/lib/tcl8.6 D:/Python_app/rest_api/lib/tcl8.6 D:/Python_app/rest_api/.venv/library D:/Python_app/rest_api/library D:/Python_app/rest_api/tcl8.6.14/library D:/Python_app/tcl8.6.14/library
+
+
+
+This probably means that Tcl wasn't installed properly.
+
+2024-11-20 05:34:13,551 [ERROR]: Ошибка в task_build_status_time_diagrams: Can't find a usable init.tcl in the following directories: 
+    C:/Users/PC/AppData/Local/Programs/Python/Python313/lib/tcl8.6 D:/Python_app/rest_api/.venv/lib/tcl8.6 D:/Python_app/rest_api/lib/tcl8.6 D:/Python_app/rest_api/.venv/library D:/Python_app/rest_api/library D:/Python_app/rest_api/tcl8.6.14/library D:/Python_app/tcl8.6.14/library
+
+
+
+This probably means that Tcl wasn't installed properly.
+
+2024-11-20 05:34:13,551 [ERROR]: Ошибка в task_build_status_time_diagrams: Can't find a usable init.tcl in the following directories: 
+    C:/Users/PC/AppData/Local/Programs/Python/Python313/lib/tcl8.6 D:/Python_app/rest_api/.venv/lib/tcl8.6 D:/Python_app/rest_api/lib/tcl8.6 D:/Python_app/rest_api/.venv/library D:/Python_app/rest_api/library D:/Python_app/rest_api/tcl8.6.14/library D:/Python_app/tcl8.6.14/library
+
+
+
+This probably means that Tcl wasn't installed properly.
+
+2024-11-20 05:34:14,521 [ERROR]: Ошибка в task_build_daily_tasks_graph: Can't find a usable init.tcl in the following directories: 
+    C:/Users/PC/AppData/Local/Programs/Python/Python313/lib/tcl8.6 D:/Python_app/rest_api/.venv/lib/tcl8.6 D:/Python_app/rest_api/lib/tcl8.6 D:/Python_app/rest_api/.venv/library D:/Python_app/rest_api/library D:/Python_app/rest_api/tcl8.6.14/library D:/Python_app/tcl8.6.14/library
+
+
+
+This probably means that Tcl wasn't installed properly.
+
+2024-11-20 05:34:14,521 [ERROR]: Ошибка в task_build_daily_tasks_graph: Can't find a usable init.tcl in the following directories: 
+    C:/Users/PC/AppData/Local/Programs/Python/Python313/lib/tcl8.6 D:/Python_app/rest_api/.venv/lib/tcl8.6 D:/Python_app/rest_api/lib/tcl8.6 D:/Python_app/rest_api/.venv/library D:/Python_app/rest_api/library D:/Python_app/rest_api/tcl8.6.14/library D:/Python_app/tcl8.6.14/library
+
+
+
+This probably means that Tcl wasn't installed properly.
+
+2024-11-20 05:34:15,844 [ERROR]: Ошибка в task_build_user_task_chart: Can't find a usable init.tcl in the following directories: 
+    C:/Users/PC/AppData/Local/Programs/Python/Python313/lib/tcl8.6 D:/Python_app/rest_api/.venv/lib/tcl8.6 D:/Python_app/rest_api/lib/tcl8.6 D:/Python_app/rest_api/.venv/library D:/Python_app/rest_api/library D:/Python_app/rest_api/tcl8.6.14/library D:/Python_app/tcl8.6.14/library
+
+
+
+This probably means that Tcl wasn't installed properly.
+
+2024-11-20 05:34:15,844 [ERROR]: Ошибка в task_build_user_task_chart: Can't find a usable init.tcl in the following directories: 
+    C:/Users/PC/AppData/Local/Programs/Python/Python313/lib/tcl8.6 D:/Python_app/rest_api/.venv/lib/tcl8.6 D:/Python_app/rest_api/lib/tcl8.6 D:/Python_app/rest_api/.venv/library D:/Python_app/rest_api/library D:/Python_app/rest_api/tcl8.6.14/library D:/Python_app/tcl8.6.14/library
+
+
+
+This probably means that Tcl wasn't installed properly.
+
+2024-11-20 05:34:16,773 [ERROR]: Ошибка в task_build_time_spent_histogram: Can't find a usable init.tcl in the following directories: 
+    C:/Users/PC/AppData/Local/Programs/Python/Python313/lib/tcl8.6 D:/Python_app/rest_api/.venv/lib/tcl8.6 D:/Python_app/rest_api/lib/tcl8.6 D:/Python_app/rest_api/.venv/library D:/Python_app/rest_api/library D:/Python_app/rest_api/tcl8.6.14/library D:/Python_app/tcl8.6.14/library
+
+
+
+This probably means that Tcl wasn't installed properly.
+
+2024-11-20 05:34:16,773 [ERROR]: Ошибка в task_build_time_spent_histogram: Can't find a usable init.tcl in the following directories: 
+    C:/Users/PC/AppData/Local/Programs/Python/Python313/lib/tcl8.6 D:/Python_app/rest_api/.venv/lib/tcl8.6 D:/Python_app/rest_api/lib/tcl8.6 D:/Python_app/rest_api/.venv/library D:/Python_app/rest_api/library D:/Python_app/rest_api/tcl8.6.14/library D:/Python_app/tcl8.6.14/library
+
+
+
+This probably means that Tcl wasn't installed properly.
+
+2024-11-20 05:34:17,730 [ERROR]: Ошибка в task_build_priority_chart: Can't find a usable init.tcl in the following directories: 
+    C:/Users/PC/AppData/Local/Programs/Python/Python313/lib/tcl8.6 D:/Python_app/rest_api/.venv/lib/tcl8.6 D:/Python_app/rest_api/lib/tcl8.6 D:/Python_app/rest_api/.venv/library D:/Python_app/rest_api/library D:/Python_app/rest_api/tcl8.6.14/library D:/Python_app/tcl8.6.14/library
+
+
+
+This probably means that Tcl wasn't installed properly.
+
+2024-11-20 05:34:17,730 [ERROR]: Ошибка в task_build_priority_chart: Can't find a usable init.tcl in the following directories: 
+    C:/Users/PC/AppData/Local/Programs/Python/Python313/lib/tcl8.6 D:/Python_app/rest_api/.venv/lib/tcl8.6 D:/Python_app/rest_api/lib/tcl8.6 D:/Python_app/rest_api/.venv/library D:/Python_app/rest_api/library D:/Python_app/rest_api/tcl8.6.14/library D:/Python_app/tcl8.6.14/library
+
+
+
+This probably means that Tcl wasn't installed properly.
+
+2024-11-20 05:41:34,925 [ERROR]: Ошибка в task_build_status_time_diagrams: Can't find a usable init.tcl in the following directories: 
+    C:/Users/PC/AppData/Local/Programs/Python/Python313/lib/tcl8.6 D:/Python_app/rest_api/.venv/lib/tcl8.6 D:/Python_app/rest_api/lib/tcl8.6 D:/Python_app/rest_api/.venv/library D:/Python_app/rest_api/library D:/Python_app/rest_api/tcl8.6.14/library D:/Python_app/tcl8.6.14/library
+
+
+
+This probably means that Tcl wasn't installed properly.
+
+2024-11-20 05:41:34,925 [ERROR]: Ошибка в task_build_status_time_diagrams: Can't find a usable init.tcl in the following directories: 
+    C:/Users/PC/AppData/Local/Programs/Python/Python313/lib/tcl8.6 D:/Python_app/rest_api/.venv/lib/tcl8.6 D:/Python_app/rest_api/lib/tcl8.6 D:/Python_app/rest_api/.venv/library D:/Python_app/rest_api/library D:/Python_app/rest_api/tcl8.6.14/library D:/Python_app/tcl8.6.14/library
+
+
+
+This probably means that Tcl wasn't installed properly.
+
+2024-11-20 07:29:20,438 [ERROR]: Произошла ошибка: fetch_jira_issues() got an unexpected keyword argument 'status'
+2024-11-20 07:29:20,438 [ERROR]: Произошла ошибка: fetch_jira_issues() got an unexpected keyword argument 'status'
+2024-11-20 08:54:07,981 [ERROR]: Произошла ошибка: fetch_jira_issues() missing 1 required positional argument: 'selected_status'
+2024-11-20 08:54:07,981 [ERROR]: Произошла ошибка: fetch_jira_issues() missing 1 required positional argument: 'selected_status'
+2024-11-20 08:55:34,906 [ERROR]: Произошла ошибка: fetch_jira_issues() missing 1 required positional argument: 'choose_status'
+2024-11-20 08:55:34,906 [ERROR]: Произошла ошибка: fetch_jira_issues() missing 1 required positional argument: 'choose_status'
+2024-11-20 09:00:00,064 [ERROR]: Произошла ошибка: fetch_jira_issues() missing 1 required positional argument: 'statuses'
+2024-11-20 09:00:00,064 [ERROR]: Произошла ошибка: fetch_jira_issues() missing 1 required positional argument: 'statuses'
+2024-11-20 09:06:06,616 [ERROR]: Произошла ошибка: fetch_jira_issues() missing 1 required positional argument: 'statuses'
+2024-11-20 09:06:06,616 [ERROR]: Произошла ошибка: fetch_jira_issues() missing 1 required positional argument: 'statuses'
+2024-11-20 09:06:50,820 [ERROR]: Ошибка в task_build_status_time_diagrams: strptime() argument 1 must be str, not None
+2024-11-20 09:06:50,820 [ERROR]: Ошибка в task_build_status_time_diagrams: strptime() argument 1 must be str, not None
+2024-11-20 09:08:11,831 [ERROR]: Ошибка в task_build_status_time_diagrams: strptime() argument 1 must be str, not None
+2024-11-20 09:08:11,831 [ERROR]: Ошибка в task_build_status_time_diagrams: strptime() argument 1 must be str, not None
+2024-11-20 09:08:14,918 [ERROR]: Ошибка в task_build_status_time_diagrams: strptime() argument 1 must be str, not None
+2024-11-20 09:08:14,918 [ERROR]: Ошибка в task_build_status_time_diagrams: strptime() argument 1 must be str, not None
+2024-11-20 09:11:49,488 [ERROR]: Произошла ошибка: fetch_jira_issues() missing 1 required positional argument: 'selected_status'
+2024-11-20 09:11:49,488 [ERROR]: Произошла ошибка: fetch_jira_issues() missing 1 required positional argument: 'selected_status'
+2024-11-20 09:12:39,582 [ERROR]: Произошла ошибка: fetch_jira_issues() missing 1 required positional argument: 'selected_status'
+2024-11-20 09:12:39,582 [ERROR]: Произошла ошибка: fetch_jira_issues() missing 1 required positional argument: 'selected_status'
+2024-11-20 09:12:54,890 [ERROR]: Ошибка в task_build_status_time_diagrams: strptime() argument 1 must be str, not None
+2024-11-20 09:12:54,890 [ERROR]: Ошибка в task_build_status_time_diagrams: strptime() argument 1 must be str, not None
+2024-11-20 09:26:36,418 [ERROR]: Произошла ошибка: 400 Client Error:  for url: https://issues.apache.org/jira/rest/api/2/search?jql=project%3DKAFKA+AND+status%3DPatch+Available&fields=created%2C+resolutiondate%2C+status&maxResults=1000
+2024-11-20 09:26:36,418 [ERROR]: Произошла ошибка: 400 Client Error:  for url: https://issues.apache.org/jira/rest/api/2/search?jql=project%3DKAFKA+AND+status%3DPatch+Available&fields=created%2C+resolutiondate%2C+status&maxResults=1000
+2024-11-20 09:26:55,480 [ERROR]: Произошла ошибка: 400 Client Error:  for url: https://issues.apache.org/jira/rest/api/2/search?jql=project%3D2+AND+status%3DReopened&fields=created%2C+resolutiondate%2C+status&maxResults=1000
+2024-11-20 09:26:55,480 [ERROR]: Произошла ошибка: 400 Client Error:  for url: https://issues.apache.org/jira/rest/api/2/search?jql=project%3D2+AND+status%3DReopened&fields=created%2C+resolutiondate%2C+status&maxResults=1000
+2024-11-20 09:27:10,075 [ERROR]: Ошибка в task_build_status_time_diagrams: strptime() argument 1 must be str, not None
+2024-11-20 09:27:10,075 [ERROR]: Ошибка в task_build_status_time_diagrams: strptime() argument 1 must be str, not None
+2024-11-20 09:31:04,268 [ERROR]: Ошибка в task_build_status_time_diagrams: strptime() argument 1 must be str, not None
+2024-11-20 09:31:04,268 [ERROR]: Ошибка в task_build_status_time_diagrams: strptime() argument 1 must be str, not None
+2024-11-20 09:31:11,884 [ERROR]: Произошла ошибка: 400 Client Error:  for url: https://issues.apache.org/jira/rest/api/2/search?jql=project%3DKAFKA+AND+status%3DIn+Progress&fields=created%2C+resolutiondate%2C+status&maxResults=1000
+2024-11-20 09:31:11,884 [ERROR]: Произошла ошибка: 400 Client Error:  for url: https://issues.apache.org/jira/rest/api/2/search?jql=project%3DKAFKA+AND+status%3DIn+Progress&fields=created%2C+resolutiondate%2C+status&maxResults=1000
+2024-11-20 09:35:21,260 [ERROR]: Ошибка в task_build_status_time_diagrams: strptime() argument 1 must be str, not None
+2024-11-20 09:35:21,260 [ERROR]: Ошибка в task_build_status_time_diagrams: strptime() argument 1 must be str, not None
+2024-11-22 15:01:21,210 [ERROR]: Произошла ошибка: 400 Client Error:  for url: https://issues.apache.org/jira/rest/api/2/search?jql=project%3DKAFKA+AND+status%3DIn+Progress&fields=created%2C+resolutiondate%2C+status&maxResults=1000
+2024-11-22 15:01:21,210 [ERROR]: Произошла ошибка: 400 Client Error:  for url: https://issues.apache.org/jira/rest/api/2/search?jql=project%3DKAFKA+AND+status%3DIn+Progress&fields=created%2C+resolutiondate%2C+status&maxResults=1000
+2024-11-22 15:02:04,065 [ERROR]: Ошибка в task_build_status_time_diagrams: strptime() argument 1 must be str, not None
+2024-11-22 15:02:04,065 [ERROR]: Ошибка в task_build_status_time_diagrams: strptime() argument 1 must be str, not None
+2024-11-25 17:23:37,889 [ERROR]: Произошла ошибка: fetch_jira_issues() missing 1 required positional argument: 'selected_status'
+2024-11-25 17:23:37,889 [ERROR]: Произошла ошибка: fetch_jira_issues() missing 1 required positional argument: 'selected_status'
