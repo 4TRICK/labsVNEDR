@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-import numpy as np
 from datetime import datetime, timedelta
 from collections import defaultdict
 from utils import save_plot, setup_logging
